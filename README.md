@@ -1,2 +1,2 @@
 # Greg
-GREG!
+GREG is a little lame!
